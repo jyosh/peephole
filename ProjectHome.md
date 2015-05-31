@@ -1,0 +1,1 @@
+A chrome extension which allows users to browse into the filesystem content of any Web site (requires content permission).
